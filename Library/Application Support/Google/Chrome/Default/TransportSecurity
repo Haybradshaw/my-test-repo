@@ -1,0 +1,32 @@
+{
+   "Ifty0kmGtBkqpzyRNEJ2iccvLpOffAEtEf72UjNCr0U=": {
+      "expiry": 1588175193.088994,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556639193.089
+   },
+   "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1559231194.119863,
+         "expect_ct_observed": 1556639194.119863,
+         "expect_ct_report_uri": "https://api.github.com/_private/browser/errors"
+      },
+      "expiry": 1588175194.119839,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556639194.119847
+   },
+   "kTBZlNzaAygsyUNLLJvF9CS33eqAcPjUb75PGjCOtnM=": {
+      "expiry": 1588175192.845409,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556639192.845413
+   },
+   "vm2QJMhfv2OL9x9nshmb+BO636j9Ec+ArLF5lO9g91k=": {
+      "expiry": 1588175451.537198,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556639451.537202
+   }
+}

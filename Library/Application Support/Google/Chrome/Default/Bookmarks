@@ -1,0 +1,303 @@
+{
+   "checksum": "7840fc17b22c65fb05d91a3fbb36524b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13200461751326553",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13201111238360539"
+            },
+            "name": "atx_sei_4-22 | GA Immersive Students Slack",
+            "sync_transaction_version": "348",
+            "type": "url",
+            "url": "https://ga-students.slack.com/messages/CHKN6J0NS/"
+         }, {
+            "date_added": "13200462518681584",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13201111980283249"
+            },
+            "name": "Inbox - haybradshaw@gmail.com - Gmail",
+            "sync_transaction_version": "350",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13200691806971655",
+            "id": "34",
+            "meta_info": {
+               "last_visited_desktop": "13201031631904088"
+            },
+            "name": "SEI-CC-2/work/w01 at master · SEI-CC/SEI-CC-2",
+            "sync_transaction_version": "338",
+            "type": "url",
+            "url": "https://git.generalassemb.ly/SEI-CC/SEI-CC-2/tree/master/work/w01"
+         } ],
+         "date_added": "13200460532513766",
+         "date_modified": "13200764272756942",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13200471445698036",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13200521648073613"
+               },
+               "name": "git-cheat-sheet-education",
+               "sync_transaction_version": "89",
+               "type": "url",
+               "url": "https://education.github.com/git-cheat-sheet-education.pdf"
+            }, {
+               "date_added": "13200471265962173",
+               "id": "12",
+               "meta_info": {
+                  "last_visited_desktop": "13201075168746152"
+               },
+               "name": "resorces ",
+               "sync_transaction_version": "344",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a"
+            }, {
+               "date_added": "13200471311636673",
+               "id": "13",
+               "meta_info": {
+                  "last_visited_desktop": "13200507979333782"
+               },
+               "name": "A Gentler Introduction to Programming – freeCodeCamp.org",
+               "sync_transaction_version": "67",
+               "type": "url",
+               "url": "https://medium.freecodecamp.org/a-gentler-introduction-to-programming-1f57383a1b2c"
+            }, {
+               "date_added": "13200506218373575",
+               "id": "17",
+               "meta_info": {
+                  "last_visited_desktop": "13200980312249318"
+               },
+               "name": "Search Results for \"pop\" | MDN",
+               "sync_transaction_version": "297",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/search?q=pop&topic=api&topic=css&topic=canvas&topic=html&topic=http&topic=js&topic=mobile&topic=apps&topic=svg&topic=webdev&topic=standards&topic=webgl"
+            }, {
+               "date_added": "13200509528728466",
+               "id": "19",
+               "meta_info": {
+                  "last_visited_desktop": "13200509528728844"
+               },
+               "name": "Inheritance and the prototype chain - JavaScript | MDN",
+               "sync_transaction_version": "76",
+               "type": "url",
+               "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain"
+            }, {
+               "date_added": "13200510837257427",
+               "id": "20",
+               "meta_info": {
+                  "last_visited_desktop": "13200521136696941"
+               },
+               "name": "Adding a remote - GitHub Help",
+               "sync_transaction_version": "88",
+               "type": "url",
+               "url": "https://help.github.com/en/articles/adding-a-remote"
+            }, {
+               "date_added": "13200527022056126",
+               "id": "21",
+               "meta_info": {
+                  "last_visited_desktop": "13200527022056552"
+               },
+               "name": "ES5 functions vs. ES6 ‘fat arrow’ functions – Jason Arnold – Medium",
+               "sync_transaction_version": "96",
+               "type": "url",
+               "url": "https://medium.com/@thejasonfile/es5-functions-vs-es6-fat-arrow-functions-864033baa1a"
+            }, {
+               "date_added": "13200680404229091",
+               "id": "23",
+               "meta_info": {
+                  "last_visited_desktop": "13200695016955577"
+               },
+               "name": "Repl.it - guess the number lab",
+               "sync_transaction_version": "230",
+               "type": "url",
+               "url": "https://repl.it/@haybradshaw/guess-the-number-lab"
+            }, {
+               "date_added": "13200764272756942",
+               "id": "35",
+               "meta_info": {
+                  "last_visited_desktop": "13200764311259562"
+               },
+               "name": "Typing Practice for Programmers | typing.io",
+               "sync_transaction_version": "252",
+               "type": "url",
+               "url": "https://typing.io/"
+            }, {
+               "date_added": "13200768166839063",
+               "id": "36",
+               "meta_info": {
+                  "last_visited_desktop": "13200768166839473"
+               },
+               "name": "Pseudocode to JavaScript.key",
+               "sync_transaction_version": "255",
+               "type": "url",
+               "url": "https://dondi.lmu.build/share/intro/pseudocode2js-v02.pdf"
+            } ],
+            "date_added": "13200471476390272",
+            "date_modified": "13201031548714776",
+            "id": "15",
+            "name": "resorces",
+            "sync_transaction_version": "35",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13200680507948562",
+               "id": "24",
+               "meta_info": {
+                  "last_visited_desktop": "13201048428867076"
+               },
+               "name": "CSS-Tricks",
+               "sync_transaction_version": "341",
+               "type": "url",
+               "url": "https://css-tricks.com/"
+            }, {
+               "date_added": "13200680525199305",
+               "id": "25",
+               "meta_info": {
+                  "last_visited_desktop": "13200680525199743"
+               },
+               "name": "Animate.css",
+               "sync_transaction_version": "197",
+               "type": "url",
+               "url": "https://daneden.github.io/animate.css/"
+            }, {
+               "date_added": "13200680826430791",
+               "id": "26",
+               "meta_info": {
+                  "last_visited_desktop": "13200680826431170"
+               },
+               "name": "Beautiful Free Images & Pictures | Unsplash",
+               "sync_transaction_version": "201",
+               "type": "url",
+               "url": "https://unsplash.com/"
+            }, {
+               "date_added": "13200680967837355",
+               "id": "27",
+               "meta_info": {
+                  "last_visited_desktop": "13200680967837749"
+               },
+               "name": "Choreographer-js",
+               "sync_transaction_version": "202",
+               "type": "url",
+               "url": "https://christinecha.github.io/choreographer-js/"
+            }, {
+               "date_added": "13200507013321671",
+               "id": "18",
+               "meta_info": {
+                  "last_visited_desktop": "13200507013322255"
+               },
+               "name": "Chart.js | Open source HTML5 Charts for your website",
+               "sync_transaction_version": "203",
+               "type": "url",
+               "url": "https://www.chartjs.org/"
+            }, {
+               "date_added": "13200691735637275",
+               "id": "33",
+               "meta_info": {
+                  "last_visited_desktop": "13200701598546407"
+               },
+               "name": "sei-cc-2_lessons | GA Immersive Students Slack",
+               "sync_transaction_version": "237",
+               "type": "url",
+               "url": "https://ga-students.slack.com/messages/CHQEC00HE/convo/CHKN6J0NS-1556213073.062300/"
+            }, {
+               "date_added": "13200680385926378",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13201027190736967"
+               },
+               "name": "tools",
+               "sync_transaction_version": "318",
+               "type": "url",
+               "url": "http://getskeleton.com/"
+            } ],
+            "date_added": "13200684778034766",
+            "date_modified": "13200691806971655",
+            "id": "31",
+            "name": "tools",
+            "sync_transaction_version": "192",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13200684727449781",
+               "id": "30",
+               "meta_info": {
+                  "last_visited_desktop": "13200684727450175"
+               },
+               "name": "SEI1+ Outcomes Toolkit - Google Sheets",
+               "sync_transaction_version": "199",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1LAlcObXKbDg5EfADgXuVGx7UJW3B4tr5IiWhYOZoJE8/edit#gid=46815314"
+            }, {
+               "date_added": "13200684658739739",
+               "id": "29",
+               "meta_info": {
+                  "last_visited_desktop": "13200684658740142"
+               },
+               "name": "Hayden Bradshaw - Job tracker - Google Sheets",
+               "sync_transaction_version": "200",
+               "type": "url",
+               "url": "https://docs.google.com/spreadsheets/d/1Xs_y9aQEVgvl_cF68qrpv7iCFwiMhscIqPApZp-TcEU/edit#gid=667766200"
+            } ],
+            "date_added": "13200684792928058",
+            "date_modified": "13200684849614083",
+            "id": "32",
+            "name": "outcomes",
+            "sync_transaction_version": "194",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13201031548714776",
+               "id": "37",
+               "meta_info": {
+                  "last_visited_desktop": "13201031548715355"
+               },
+               "name": "games",
+               "sync_transaction_version": "331",
+               "type": "url",
+               "url": "https://flexboxfroggy.com/"
+            }, {
+               "date_added": "13201031589944989",
+               "id": "39",
+               "meta_info": {
+                  "last_visited_desktop": "13201031589945401"
+               },
+               "name": "Grid Garden - A game for learning CSS grid",
+               "sync_transaction_version": "336",
+               "type": "url",
+               "url": "https://cssgridgarden.com/"
+            } ],
+            "date_added": "13201031582777943",
+            "date_modified": "13201031589944989",
+            "id": "38",
+            "name": "games",
+            "sync_transaction_version": "332",
+            "type": "folder"
+         } ],
+         "date_added": "13200460532513804",
+         "date_modified": "13200684811716845",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "350",
+      "synced": {
+         "children": [  ],
+         "date_added": "13200460532513808",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

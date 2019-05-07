@@ -1,0 +1,8 @@
+git pull upstream master
+ls
+cd sei-cc-2
+git pull upstream master
+git status
+tree
+git status
+git add 

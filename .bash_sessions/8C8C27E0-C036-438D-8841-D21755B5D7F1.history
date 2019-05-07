@@ -1,0 +1,98 @@
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+xcode-select --install
+code .
+code .
+brew install git
+touch ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
+tree
+ls
+brew install node
+node -v
+npm -v
+npm install -g nodemon
+brew install postgresql
+brew services start postgresql
+createdb
+brew install mongodb
+sudo mkdir -p /data/db
+whoami
+sudo chown -R <your username here> /data/db
+mongod
+brew install python
+pip3 install Django
+code .
+https://git.generalassemb.ly/hbradshaw/SEI-CC-2.git
+ls
+cd ~/
+cd ~/code
+~/code 
+git clone https://git.generalassemb.ly/hbradshaw/SEI-CC-2.git
+code .
+pwd
+code .
+ls
+pwd
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-code-challenges.git
+code .
+code .
+cd 
+code .
+node -v
+npm -v
+python -v
+python3
+mongod
+ls
+cd ~/
+ls
+git pull upstream master
+git remote -v
+ls
+ls -a
+ls
+git push
+git add
+git pull upstream master
+ls
+git remote -v
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-js-code-challenges.git
+code .
+$ cd SEI-CC-2
+git remote
+git add
+ls
+git repo
+git --help
+tree
+code .
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-js-code-challenges.git
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-js-code-challenges.git && cd~/
+git repo add
+git remote
+git help
+git init
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-js-code-challenges.git
+git clone https://git.generalassemb.ly/hbradshaw/daily-js-code-challenges.git
+code .
+git remote upstream master
+ls
+cd~/sei-cc-2
+cd~/SEI-CC-2
+ls
+git push
+git psuh
+git push
+git push haydenbradshaw
+ls
+sandbox.js
+cd sandbox.js
+ga
+cd ga
+cd dom-practice
+touch events-practice
+cd
+cd events-practice
+touch index.html 
+code .

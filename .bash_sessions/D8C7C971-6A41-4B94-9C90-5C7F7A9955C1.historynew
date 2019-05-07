@@ -1,0 +1,29 @@
+ls
+touch sandbox.js
+code sandbox.js
+node sandbox.js
+node sandbox.js
+node sandbox.js
+nodmin-qsandbox.js
+npm --version
+npm i -g nodemon
+nodemon -q sandbox.js
+node sandbox.js
+ls
+code .
+ls
+mkdir dom-practice 
+cd dom-practice
+ls
+index.html 
+ls
+cd dom-practice
+code .
+mkdir GA
+cd ga
+ls
+mkdir dom-practice 
+cd dom-practice/
+touch index.html main.js
+ls
+code .

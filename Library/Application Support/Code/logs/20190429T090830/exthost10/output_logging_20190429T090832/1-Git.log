@@ -1,0 +1,66 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.21.0 from /usr/local/bin/git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /Users/haydenbradshaw
+> git status -z -u
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git check-ignore -z --stdin
+> git show :GA/tic-tac-toe/css/#main.css
+> git ls-files --stage -- GA/tic-tac-toe/css/
+> git check-ignore -z --stdin
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/css/#main.css
+> git ls-files --stage -- GA/tic-tac-toe/css/
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/css/#main.css
+> git ls-files --stage -- GA/tic-tac-toe/css/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/css/#main.css
+> git ls-files --stage -- GA/tic-tac-toe/css/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git check-ignore -z --stdin
+> git show :GA/tic-tac-toe/.vscode/settings.json
+> git ls-files --stage -- GA/tic-tac-toe/.vscode/
+> git show :GA/tic-tac-toe/css/#main.css
+> git ls-files --stage -- GA/tic-tac-toe/css/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git show :GA/tic-tac-toe/JS/JS main.js
+> git ls-files --stage -- GA/tic-tac-toe/JS/
+> git show :GA/tic-tac-toe/README.md/index.html
+> git ls-files --stage -- GA/tic-tac-toe/README.md/
+> git check-ignore -z --stdin

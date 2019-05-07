@@ -1,0 +1,121 @@
+[Tue Apr 23 00:22:24 CDT 2019]path: /usr/bin:/bin:/usr/sbin:/sbin
+The path includes /usr/bin.
+path new: /usr/bin:/bin:/usr/sbin:/sbin
+check whereis:/usr/bin/whoami
+check unzip:/usr/bin/unzip
+os ver: ProductName:	Mac OS X
+ProductVersion:	10.14.3
+BuildVersion:	18D42
+check admin:haydenbradshaw, 0, user is a member of the group, user is a member of the group, 29
+no ZITPackage installed
+drwxrwxr-x+ 49 root  admin  1568 Apr 23 00:19 /Applications
+ 0: group:everyone deny delete
+[Tue Apr 23 00:22:24 CDT 2019]use this app path: /Applications/zoom.us.app
+[Tue Apr 23 00:22:24 CDT 2019]use this folder path: /Applications
+[Tue Apr 23 00:22:24 CDT 2019]use this dock path: file:///Applications/zoom.us.app/
+get running zoom.us.app id: 
+get running Zoom.app id: 
+[Tue Apr 23 00:22:24 CDT 2019]un7z zm.7z =================================
+[Tue Apr 23 00:22:26 CDT 2019]check un7z return:0, 
+7-Zip (a) [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=utf8,Utf16=on,HugeFiles=on,64 bits,4 CPUs x64)
+
+Scanning the drive for archives:
+1 file, 10166711 bytes (9929 KiB)
+
+Extracting archive: ./zm.7z
+--
+Path = ./zm.7z
+Type = 7z
+Physical Size = 10166711
+Headers Size = 6649
+Method = Delta LZMA2:48m LZMA:20 BCJ2
+Solid = +
+Blocks = 3
+
+Everything is Ok
+
+Folders: 223
+Files: 421
+Size:       38754685
+Compressed: 10166711
+[Tue Apr 23 00:22:26 CDT 2019]un7z all finished
+[Tue Apr 23 00:22:26 CDT 2019]mv /Applications/.zoomus_Tue Apr 23 00:22:24 CDT 2019/zoom.us.app into /Applications
+[Tue Apr 23 00:22:26 CDT 2019]remove previous install plugin: 1
+[Tue Apr 23 00:22:26 CDT 2019]result of remove zoom plugin: 0
+[Tue Apr 23 00:22:26 CDT 2019]result of copy zoom plugin: 0
+parent id: 4758
+[Tue Apr 23 00:22:26 CDT 2019]defaults write installPath:/Applications/zoom.us.app  ret=0
+=========================create dock icon with dockutil
+[Tue Apr 23 00:22:27 CDT 2019]keepIconInDock: 0
+[Tue Apr 23 00:22:27 CDT 2019]OnlinePlugins installed
+--prepared:/Applications/zoom.us.app/Contents/PlugIns/ZoomAudioDevice.driver
+--validated:/Applications/zoom.us.app/Contents/PlugIns/ZoomAudioDevice.driver
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zAutoUpdate.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zAutoUpdate.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zChatApp.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zChatApp.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/protobuf.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/protobuf.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/viper.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/viper.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/annoter.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/annoter.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/curl64.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/curl64.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zVideoApp.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zVideoApp.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zmLoader.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zmLoader.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zChatUI.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zChatUI.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zWebService.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zWebService.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zmb.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/ZCommonUI.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zmb.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/ZCommonUI.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zlt.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zlt.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/faac.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/faac.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/util.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/util.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/libcrypto.1.0.0.dylib
+--validated:/Applications/zoom.us.app/Contents/Frameworks/libcrypto.1.0.0.dylib
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zMacRes.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zMacRes.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/ZMScreenshot.app
+--validated:/Applications/zoom.us.app/Contents/Frameworks/ZMScreenshot.app
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/asproxy.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/asproxy.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/libssl.1.0.0.dylib
+--validated:/Applications/zoom.us.app/Contents/Frameworks/libssl.1.0.0.dylib
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/xmpp_framework.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/xmpp_framework.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/nydus.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/nydus.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/cmmlib.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/cmmlib.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/tp.framework/Versions/Current/.
+--validated:/Applications/zoom.us.app/Contents/Frameworks/tp.framework/Versions/Current/.
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/ZoomOpener.app
+--validated:/Applications/zoom.us.app/Contents/Frameworks/ZoomOpener.app
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/Transcode.app
+--validated:/Applications/zoom.us.app/Contents/Frameworks/Transcode.app
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zData.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zData.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/ssb_sdk.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/ssb_sdk.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/aomagent.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/aomagent.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/mcm.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/mcm.bundle
+--prepared:/Applications/zoom.us.app/Contents/Frameworks/zVideoUI.bundle
+--validated:/Applications/zoom.us.app/Contents/Frameworks/zVideoUI.bundle
+/Applications/zoom.us.app: valid on disk
+/Applications/zoom.us.app: satisfies its Designated Requirement
+[Tue Apr 23 00:22:27 CDT 2019]codesign verified###########################
+[Tue Apr 23 00:22:27 CDT 2019] start new app: /Applications/zoom.us.app
+installer pid: 4758
+[Tue Apr 23 00:22:27 CDT 2019]installer saved state: /Users/haydenbradshaw/Library/Saved Application State/com.apple.installer.savedState/windows.plist

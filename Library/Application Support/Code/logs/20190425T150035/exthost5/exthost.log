@@ -1,0 +1,113 @@
+[2019-04-25 15:00:37.647] [exthost] [info] extension host started
+[2019-04-25 15:00:37.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-04-25 15:00:37.672] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2019-04-25 15:00:37.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-04-25 15:00:37.678] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2019-04-25 15:00:37.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-04-25 15:00:37.685] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2019-04-25 15:00:37.717] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-04-25 15:00:37.717] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2019-04-25 15:00:37.726] [exthost] [info] eager extensions activated
+[2019-04-25 15:00:48.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-04-25 15:00:48.909] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-04-25 15:00:50.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-04-25 15:00:50.173] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension
+[2019-04-25 15:13:27.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-04-25 15:13:27.164] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/configuration-editing/dist/extension
+[2019-04-25 15:13:27.180] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-04-25 15:13:27.180] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-04-25 15:40:04.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-04-25 15:40:04.827] [exthost] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code.app/Contents/Resources/app/extensions/extension-editing/dist/extension
+[2019-04-25 17:09:14.255] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-04-25 17:09:14.263] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Cannot read property 'kind' of undefined
+TypeError: Cannot read property 'kind' of undefined
+    at getRootDeclaration (tsserver.js:10974:21)
+    at Object.isCatchClauseVariableDeclarationOrBindingElement (tsserver.js:8894:20)
+    at getTypeOfVariableOrParameterOrPropertyWorker (tsserver.js:36105:20)
+    at getTypeOfVariableOrParameterOrProperty (tsserver.js:36078:28)
+    at getTypeOfSymbol (tsserver.js:36387:24)
+    at getTypeOfSymbolAtLocation (tsserver.js:46634:20)
+    at Object.getTypeOfSymbolAtLocation (tsserver.js:31211:35)
+    at Object.getSymbolDisplayPartsDocumentationAndSymbolKind (tsserver.js:107247:97)
+    at tsserver.js:98882:41
+    at Object.runWithCancellationToken (tsserver.js:31444:28)
+    at createCompletionDetailsForSymbol (tsserver.js:98881:30)
+    at Object.getCompletionEntryDetails (tsserver.js:98863:28)
+    at Object.getCompletionEntryDetails (tsserver.js:120938:35)
+    at tsserver.js:129986:57
+    at Object.mapDefined (tsserver.js:668:30)
+    at IOSession.Session.getCompletionEntryDetails (tsserver.js:129984:33)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128921:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)
+[2019-04-25 17:09:19.125] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-04-25 17:09:19.125] [exthost] [error] Error: TypeScript Server Error (3.4.3)
+Debug Failure. False expression: Containing file should be a module.
+Error: Debug Failure. False expression: Containing file should be a module.
+    at checkImportMetaProperty (tsserver.js:51228:22)
+    at checkMetaProperty (tsserver.js:51203:24)
+    at checkExpressionWorker (tsserver.js:53075:28)
+    at checkExpression (tsserver.js:52979:38)
+    at getTypeOfExpression (tsserver.js:52956:58)
+    at getContextualTypeForBinaryOperand (tsserver.js:47633:56)
+    at getContextualType (tsserver.js:47950:28)
+    at Object.getContextualType (tsserver.js:31301:31)
+    at Object.getContextualTypeFromParent (tsserver.js:96896:31)
+    at fromContextualType (tsserver.js:98041:83)
+    at getStringLiteralCompletionEntries (tsserver.js:98036:32)
+    at Object.getStringLiteralCompletions (tsserver.js:97882:59)
+    at Object.getCompletionsAtPosition (tsserver.js:98573:67)
+    at Object.getCompletionsAtPosition (tsserver.js:120933:35)
+    at IOSession.Session.getCompletions (tsserver.js:129956:64)
+    at Session.handlers.ts.createMapFromTemplate._a.(anonymous function) (tsserver.js:128912:61)
+    at tsserver.js:130454:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:130445:28)
+    at IOSession.Session.executeCommand (tsserver.js:130454:33)
+    at IOSession.Session.onMessage (tsserver.js:130476:35)
+    at Interface.<anonymous> (tsserver.js:131773:27)
+    at Interface.emit (events.js:182:13)
+    at Interface._onLine (readline.js:290:10)
+    at Interface._normalWrite (readline.js:433:12)
+    at Socket.ondata (readline.js:149:10)
+    at Socket.emit (events.js:182:13)
+    at addChunk (_stream_readable.js:279:12)
+    at readableAddChunk (_stream_readable.js:264:11)
+    at Socket.Readable.push (_stream_readable.js:219:10)
+    at Pipe.onread (net.js:636:20)
+	at Function.create (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:174464)
+	at v.dispatchResponse (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:179770)
+	at v.dispatchMessage (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:178522)
+	at constructor._reader.onData.e (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:177878)
+	at u.fire (/Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:44:708)
+	at t.Reader.onLengthData (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:183738)
+	at Socket.t.Reader.constructor.e.on.e (/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/typescript-language-features/dist/extension.js:1:183386)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:279:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onread (net.js:636:20)

@@ -1,0 +1,113 @@
+Looking for git in: /usr/local/bin/git
+Using git 2.21.0 from /usr/local/bin/git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /Users/haydenbradshaw
+> git status -z -u
+> git check-ignore -z --stdin
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/index.html
+> git ls-files --stage -- dom-practice/GA/dom-practice/
+> git show :dom-practice/GA/dom-practice/main.js
+> git ls-files --stage -- dom-practice/GA/dom-practice/

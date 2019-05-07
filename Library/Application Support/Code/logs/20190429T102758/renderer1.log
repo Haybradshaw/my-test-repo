@@ -1,0 +1,10 @@
+[2019-04-29 10:54:14.494] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:91:674)
+    at s.isCollapsed (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:91:14)
+    at j.isCollapsed (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:940:572)
+    at B.revealMarkersForCurrentActiveEditor (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:5301:237)
+    at B.autoReveal (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:5301:94)
+    at B.onActiveEditorChanged (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:5298:531)
+    at B._register.e (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:5297:572)
+    at d.fire (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:75:436)
+    at setTimeout (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:71:973)

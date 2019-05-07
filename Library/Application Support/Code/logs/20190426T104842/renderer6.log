@@ -1,0 +1,2 @@
+[2019-04-26 10:53:27.645] [renderer6] [error] File is directory: Error: File is directory
+    at o.resolveFile.then.e (file:///Applications/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:3362:936)

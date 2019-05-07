@@ -1,0 +1,41 @@
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew update
+xcode-select --install
+code .
+code .
+brew install git
+touch ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
+tree
+ls
+brew install node
+node -v
+npm -v
+npm install -g nodemon
+brew install postgresql
+brew services start postgresql
+createdb
+brew install mongodb
+sudo mkdir -p /data/db
+whoami
+sudo chown -R <your username here> /data/db
+mongod
+brew install python
+pip3 install Django
+code .
+https://git.generalassemb.ly/hbradshaw/SEI-CC-2.git
+ls
+cd ~/
+cd ~/code
+~/code 
+git clone https://git.generalassemb.ly/hbradshaw/SEI-CC-2.git
+code .
+pwd
+code .
+ls
+pwd
+git clonehttps://git.generalassemb.ly/hbradshaw/daily-code-challenges.git
+code .
+code .
+cd 
+code .

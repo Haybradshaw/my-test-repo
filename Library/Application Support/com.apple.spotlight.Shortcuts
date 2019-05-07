@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>act</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Activity Monitor</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T04:19:55Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Activity%20Monitor.app/</string>
+	</dict>
+	<key>ap</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Applications</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T03:49:08Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/CoreServices/Applications/</string>
+	</dict>
+	<key>chrome</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Google Chrome</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T02:35:23Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Google%20Chrome.app/</string>
+	</dict>
+	<key>code</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Visual Studio Code</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T04:49:38Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Visual%20Studio%20Code.app/</string>
+	</dict>
+	<key>digit</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Digital Color Meter</string>
+		<key>LAST_USED</key>
+		<date>2019-04-29T17:14:27Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Digital%20Color%20Meter.app/</string>
+	</dict>
+	<key>dis</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Discord</string>
+		<key>LAST_USED</key>
+		<date>2019-04-24T14:28:51Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Discord.app/</string>
+	</dict>
+	<key>finder</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Finder</string>
+		<key>LAST_USED</key>
+		<date>2019-04-26T15:37:25Z</date>
+		<key>URL</key>
+		<string>file:///System/Library/CoreServices/Finder.app/</string>
+	</dict>
+	<key>mon</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Activity Monitor</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T04:45:23Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Activity%20Monitor.app/</string>
+	</dict>
+	<key>spec</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Spectacle</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T15:44:29Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Spectacle.app/</string>
+	</dict>
+	<key>ter</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Terminal</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T03:16:05Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Terminal.app/</string>
+	</dict>
+	<key>term</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Terminal</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T15:16:46Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Utilities/Terminal.app/</string>
+	</dict>
+	<key>tic</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>tic-tac-toe</string>
+		<key>LAST_USED</key>
+		<date>2019-04-29T15:25:37Z</date>
+		<key>URL</key>
+		<string>file:///Users/haydenbradshaw/GA/tic-tac-toe/</string>
+	</dict>
+	<key>vs</key>
+	<dict>
+		<key>DISPLAY_NAME</key>
+		<string>Visual Studio Code</string>
+		<key>LAST_USED</key>
+		<date>2019-04-23T03:58:57Z</date>
+		<key>URL</key>
+		<string>file:///Applications/Visual%20Studio%20Code.app/</string>
+	</dict>
+</dict>
+</plist>
