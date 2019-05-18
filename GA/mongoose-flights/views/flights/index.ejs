@@ -1,0 +1,20 @@
+<table id="list">
+    <thead>
+      <tr>
+        <th>Airline</th>
+        <th>Flight Number</th>
+        <th>Departure</th>
+        <th>Airport</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% flights.forEach(function(f) { %>
+        <tr>
+          <td><%= f.airline %></td>
+          <td><%= f.flightNo %></td>
+          <td><%= f.departs %></td>
+          <td><%= f.airport %></td>
+        </tr>
+        <% }); %>
+      </tbody>
+    </table>
